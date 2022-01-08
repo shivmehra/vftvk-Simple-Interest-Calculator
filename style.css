@@ -1,4 +1,25 @@
-body {background-color:tan;}
-h1{color:green;}
-
-
+body {
+    background-color:black;
+    font-family: arial;
+    color: white;
+}
+h1{
+    color:gray;
+    font-family: verdana;
+    text-align: center;
+}
+form{
+    text-align: left;
+}
+.maindiv{
+    background-color: white;
+    color: black;
+    padding: 20px;
+    width: 800px;
+    border-radius: 25px;
+}
+.center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+  }
